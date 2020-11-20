@@ -3,6 +3,7 @@
 
 ## Como submeter uma PEP pra comunidade : - Python
 
+[Assista a Talk Através desse Link](https://www.youtube.com/watch?v=jaM88MGaJQM&t=13022s)
 
 PEP 20
 
